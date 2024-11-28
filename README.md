@@ -86,10 +86,7 @@ To contribute, you'll need:
 ## 📷 Screenshots
 
 ### Main Interface
-![MiniAlarm Interface](https://via.placeholder.com/800x450.png?text=Screenshot+Placeholder)
-
-### Alarm Notification
-![Alarm Notification](https://via.placeholder.com/800x450.png?text=Notification+Placeholder)
+![MiniAlarm Interface](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/MiniAlarm/Screenshot%20(185).png)
 
 ---
 
